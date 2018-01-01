@@ -1,0 +1,9 @@
+colors:
+
+dark black:     #111111
+medium black:   #1c1c1c
+light black:    #232323
+pre hover:      #343434
+hover:          #
+
+white:          #ffffff
