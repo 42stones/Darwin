@@ -1,0 +1,22 @@
+#colors
+
+black:      #000000
+white:      #ffffff
+
+gray1:      #888888
+            #616161
+gray2:      #444444
+gray3:      #333333
+gray4:      #222222
+gray5:      #181818
+gray6:      #0c0c0c
+
+magenta:    #f90086
+blue:       #54d4ff
+green:      #08fbcf
+purple:     #B60DFC
+orange:     #ff9c31
+yellow:     #fff900
+green:      #08fbcf
+
+
