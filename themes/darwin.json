@@ -251,14 +251,14 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -269,7 +269,7 @@
         "meta.class meta.method.declaration meta.var.expr storage.type.js"
       ],
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -406,14 +406,14 @@
       "name": "Keyword Operator Relational",
       "scope": "keyword.operator.relational",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
       "name": "Keyword Operator Assignment",
       "scope": "keyword.operator.assignment",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -434,7 +434,7 @@
       "name": "Null",
       "scope": "constant.language.null",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -448,7 +448,7 @@
       "name": "Meta Delimiter Period",
       "scope": "meta.delimiter.period",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -462,7 +462,7 @@
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -523,7 +523,7 @@
       "name": "Meta Selector",
       "scope": "meta.selector",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -547,7 +547,7 @@
         "meta.tag.sgml.doctype"
       ],
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -568,7 +568,7 @@
       "name": "Keyword Operator Logical",
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -604,7 +604,7 @@
       "name": "Keyword Operator Comparison",
       "scope": "keyword.operator.comparison",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -701,7 +701,7 @@
         "meta.array"
       ],
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -727,14 +727,14 @@
       "name": "Backtics(``) in Template Strings",
       "scope": "string.template punctuation.definition.string",
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "Italics",
       "scope": "italic",
       "settings": {
-        "foreground": "#ff50ae90",
+        "foreground": "#ff50ae",
         "fontStyle": "italic"
       }
     },
@@ -772,7 +772,7 @@
       "name": "CoffeScript Parameter Function",
       "scope": "variable.parameter.function.coffee",
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -786,7 +786,7 @@
       "name": "C# Readwrite Variables",
       "scope": "variable.other.readwrite.cs",
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -891,7 +891,7 @@
       "name": "Elixir Binary Punctuations",
       "scope": "source.elixir .punctuation.binary.elixir",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -919,7 +919,7 @@
       "name": "HTML Doctype",
       "scope": "meta.tag.sgml.doctype.html",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -941,14 +941,14 @@
       "name": "JavaScript Terminator",
       "scope": "terminator.js",
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "JavaScript Meta Punctuation Definition",
       "scope": "meta.js punctuation.definition.js",
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -980,7 +980,7 @@
         "meta.export.js variable.other"
       ],
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -994,7 +994,7 @@
       "name": "JavaScript Variable Other ReadWrite",
       "scope": "variable.other.readwrite.js",
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1006,7 +1006,7 @@
         "variable.object.property.jsx"
       ],
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1016,7 +1016,7 @@
         "variable.other.js"
       ],
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1033,7 +1033,7 @@
       "name": "JavaScript Support Classes",
       "scope": "support.class.js",
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1068,14 +1068,14 @@
       "name": "Specific JSON Property values like null",
       "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
       "name": "Ruby Variables",
       "scope": "variable.other.ruby",
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1117,7 +1117,7 @@
       "name": "Markdown Italics",
       "scope": "markup.italic.markdown",
       "settings": {
-        "foreground": "#ff50ae90",
+        "foreground": "#ff50ae",
         "fontStyle": "italic"
       }
     },
@@ -1161,7 +1161,7 @@
         "string.other.link.description.markdown"
       ],
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1212,7 +1212,7 @@
       "name": "Punctuations in PHP function calls",
       "scope": "meta.function-call.php punctuation",
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1233,7 +1233,7 @@
       "name": "Language Constants in Python",
       "scope": "constant.language.python",
       "settings": {
-        "foreground": "#ff50ae90"
+        "foreground": "#ff50ae"
       }
     },
     {
@@ -1260,7 +1260,7 @@
       "name": "Punctuations in Python",
       "scope": "punctuation.python",
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1356,7 +1356,7 @@
         "variable.ts"
       ],
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1398,7 +1398,7 @@
         "meta.export.tsx punctuation.definition.block"
       ],
       "settings": {
-        "foreground": "#888888"
+        "foreground": "#ffffff"
       }
     },
     {
