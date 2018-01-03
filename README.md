@@ -1,6 +1,11 @@
 # DARWIN for [Visual Studio Code](http://code.visualstudio.com)
 
-Darwin is a dark window theme for vs code, inpired by the hyper design.
+Darwin is a dark window theme for vs code, inspired by the hyper design.
+
+## Screenshots
+
+![ScreenShot](http://lastheromedia.com/Darwin/Screenshot1.png)
+![ScreenShot](http://lastheromedia.com/Darwin/Screenshot2.png)
 
 ## Themes
 
