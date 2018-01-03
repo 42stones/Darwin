@@ -4,8 +4,8 @@ Darwin is a dark window theme for vs code, inspired by the hyper design.
 
 ## Screenshots
 
-![ScreenShot](http://lastheromedia.com/Darwin/Screenshot1.png)
-![ScreenShot](http://lastheromedia.com/Darwin/Screenshot2.png)
+![ScreenShot](http://lastheromedia.com/Darwin/Screenshot1)
+![ScreenShot](http://lastheromedia.com/Darwin/Screenshot2)
 
 ## Themes
 
