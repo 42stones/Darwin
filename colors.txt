@@ -1,6 +1,6 @@
 #colors
 
-black:      #000000
+black:      #111111
 white:      #ffffff
 
 gray1:      #888888
