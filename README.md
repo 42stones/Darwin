@@ -12,10 +12,10 @@ git clone https://github.com/42stones/Darwin.git
 
 ## Screenshots
 
-### HTML
+### HTML:
 ![ScreenShot](https://raw.githubusercontent.com/42stones/Darwin/master/img/Screenshot1.png)
 
-### C#
+### C#:
 ![ScreenShot](https://raw.githubusercontent.com/42stones/Darwin/master/img/Screenshot2.png)
 
 ## Themes
