@@ -26,7 +26,7 @@
     "editorWhitespace.foreground": "#ffffff10",
     "editor.background": "#000000",
     "editor.foreground": "#ffffff",
-    "editor.lineHighlightBackground": "#1c1c1c50",
+    "editor.lineHighlightBackground": "#33333350",
     "editor.selectionBackground": "#333333",
     "editor.selectionHighlightBackground": "#333333",
     "editorOverviewRuler.border": "#1c1c1c",
