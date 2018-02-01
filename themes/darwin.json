@@ -37,7 +37,7 @@
     "editorGroup.border": "#0c0d0e30",
     "editorGutter.modifiedBackground": "#54d4ff60",
     "editorGutter.addedBackground": "#08fbcf60",
-    "editorGutter.deletedBackground": "#ff50ae60",
+    "editorGutter.deletedBackground": "#f9008660",
     "tab.activeBorder": "#f90086",
     "tab.unfocusedActiveBorder": "#666666",
     "tab.activeForeground": "#FFFFFF",
@@ -92,7 +92,7 @@
     "terminal.ansiCyan": "#54d4ff",
     "terminal.ansiGreen": "#08fbcf",
     "terminal.ansiMagenta": "#f90086",
-    "terminal.ansiRed": "#ff50ae90",
+    "terminal.ansiRed": "#f9008690",
     "terminal.ansiYellow": "#fff900",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightBlack": "#3a3a3a",
@@ -100,7 +100,7 @@
     "terminal.ansiBrightCyan": "#54d4ff",
     "terminal.ansiBrightGreen": "#08fbcf",
     "terminal.ansiBrightMagenta": "#f90086",
-    "terminal.ansiBrightRed": "#ff50ae90",
+    "terminal.ansiBrightRed": "#f9008690",
     "terminal.ansiBrightYellow": "#fff900",
     "scrollbarSlider.background": "#ffffff24",
     "scrollbarSlider.hoverBackground": "#f9008677",
@@ -110,7 +110,7 @@
     "editorSuggestWidget.highlightForeground": "#f90086",
     "editorSuggestWidget.selectedBackground": "#3a3a3a",
     "editorSuggestWidget.border": "#222222",
-    "editorError.foreground": "#ff50ae70",
+    "editorError.foreground": "#f90086",
     "editorWarning.foreground": "#08fbcf70",
     "editorWidget.background": "#0c0d0e",
     "editorMarkerNavigation.background": "#ffffff05",
@@ -119,12 +119,12 @@
     "panel.background": "#0c0d0e",
     "panelTitle.activeForeground": "#ffffff",
     "diffEditor.insertedTextBackground": "#08fbcf15",
-    "diffEditor.removedTextBackground": "#ff50ae90",
+    "diffEditor.removedTextBackground": "#f9008690",
     "notification.background": "#0c0d0e",
     "notification.foreground": "#ffffff",
     "notification.infoBackground": "#54d4ff",
     "notification.infoForeground": "#ffffff",
-    "notification.warningBackground": "#ff50ae90",
+    "notification.warningBackground": "#f9008690",
     "notification.warningForeground": "#ffffff",
     "notification.buttonBackground": "#ffffff50",
     "badge.background": "#0a0a0a30",
@@ -140,7 +140,7 @@
     "peekViewTitleDescription.foreground": "#ffffff60",
     "debugToolBar.background": "#0c0d0e",
     "pickerGroup.foreground": "#f90086",
-    "gitDecoration.deletedResourceForeground": "#ff50ae",
+    "gitDecoration.deletedResourceForeground": "#f90086",
     "gitDecoration.conflictingResourceForeground": "#fff900",
     "gitDecoration.modifiedResourceForeground": "#54d4ff",
     "gitDecoration.untrackedResourceForeground": "#08fbcf",
@@ -251,14 +251,14 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
@@ -269,7 +269,7 @@
         "meta.class meta.method.declaration meta.var.expr storage.type.js"
       ],
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
@@ -286,6 +286,7 @@
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#06fbcf"
       }
     },
@@ -406,14 +407,14 @@
       "name": "Keyword Operator Relational",
       "scope": "keyword.operator.relational",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
       "name": "Keyword Operator Assignment",
       "scope": "keyword.operator.assignment",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
@@ -434,7 +435,7 @@
       "name": "Null",
       "scope": "constant.language.null",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
@@ -448,21 +449,21 @@
       "name": "Meta Delimiter Period",
       "scope": "meta.delimiter.period",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
       "name": "Punctuation Definition String",
       "scope": "punctuation.definition.string",
       "settings": {
-        "foreground": "#d9f5dd"
+        "foreground": "#08fbcf"
       }
     },
     {
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
@@ -523,7 +524,7 @@
       "name": "Meta Selector",
       "scope": "meta.selector",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
@@ -547,14 +548,14 @@
         "meta.tag.sgml.doctype"
       ],
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
       "name": "Punctuation Definition Parameters",
       "scope": "punctuation.definition.parameters",
       "settings": {
-        "foreground": "#d9f5dd"
+        "foreground": "#08fbcf"
       }
     },
     {
@@ -568,7 +569,7 @@
       "name": "Keyword Operator Logical",
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
@@ -604,7 +605,7 @@
       "name": "Keyword Operator Comparison",
       "scope": "keyword.operator.comparison",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
@@ -713,7 +714,7 @@
         "punctuation.definition.list"
       ],
       "settings": {
-        "foreground": "#d9f5dd"
+        "foreground": "#08fbcf"
       }
     },
     {
@@ -734,7 +735,7 @@
       "name": "Italics",
       "scope": "italic",
       "settings": {
-        "foreground": "#ff50ae",
+        "foreground": "#f90086",
         "fontStyle": "italic"
       }
     },
@@ -796,7 +797,7 @@
         "storage.type.cs"
       ],
       "settings": {
-        "foreground": "#54d4ff"
+        "foreground": "#87E1FF"
       }
     },
     {
@@ -874,7 +875,7 @@
       "name": "Elixir String Punctuations",
       "scope": "source.elixir punctuation.definition.string",
       "settings": {
-        "foreground": "#06fbcf"
+        "foreground": "#54d4ff"
       }
     },
     {
@@ -891,7 +892,7 @@
       "name": "Elixir Binary Punctuations",
       "scope": "source.elixir .punctuation.binary.elixir",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
@@ -919,7 +920,7 @@
       "name": "HTML Doctype",
       "scope": "meta.tag.sgml.doctype.html",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
@@ -1068,7 +1069,7 @@
       "name": "Specific JSON Property values like null",
       "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
@@ -1117,7 +1118,7 @@
       "name": "Markdown Italics",
       "scope": "markup.italic.markdown",
       "settings": {
-        "foreground": "#ff50ae",
+        "foreground": "#f90086",
         "fontStyle": "italic"
       }
     },
@@ -1233,7 +1234,7 @@
       "name": "Language Constants in Python",
       "scope": "constant.language.python",
       "settings": {
-        "foreground": "#ff50ae"
+        "foreground": "#f90086"
       }
     },
     {
