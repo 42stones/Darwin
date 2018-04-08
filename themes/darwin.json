@@ -10,7 +10,7 @@
     "focusBorder": "#FFFFFF00",
     "foreground": "#FFFFFF",
     "widget.shadow": "#FFFFFF00",
-    "selection.background": "#888888",
+    "selection.background": "#999999",
     "descriptionForeground": "#FFFFFF",
     "errorForeground": "#f90086",
     "editorCursor.foreground": "#f90086",
@@ -20,7 +20,7 @@
     "progressBar.background": "#f90086",
     "textLink.foreground": "#f90086",
     "textLink.activeForeground": "#FFFFFF",
-    "editorLineNumber.foreground": "#444444",
+    "editorLineNumber.foreground": "#777777",
     "editorBracketMatch.border": "#FFCC0050",
     "editorBracketMatch.background": "#0c0d0e",
     "editorWhitespace.foreground": "#ffffff10",
@@ -39,17 +39,19 @@
     "editorGutter.addedBackground": "#08fbcf60",
     "editorGutter.deletedBackground": "#f9008660",
     "tab.activeBorder": "#f90086",
-    "tab.unfocusedActiveBorder": "#666666",
+    "tab.unfocusedActiveBorder": "#777777",
     "tab.activeForeground": "#FFFFFF",
     "tab.activeBackground": "#252525",
-    "tab.inactiveForeground": "#616161",
+    "tab.inactiveForeground": "#777777",
     "tab.inactiveBackground": "#0c0d0e",
+    "tab.hoverBackground": "#252525",
     "tab.unfocusedActiveForeground": "#ffffff",
+    "tab.unfocusedInactiveForeground": "#777777",
     "tab.border": "#0c0d0e",
     "statusBar.noFolderBackground": "#0c0d0e",
     "statusBar.border": "#0a0a0a60",
     "statusBar.background": "#0c0d0e",
-    "statusBar.foreground": "#616161",
+    "statusBar.foreground": "#777777",
     "statusBar.debuggingBackground": "#f90086",
     "statusBar.debuggingForeground": "#ffffff",
     "activityBar.background": "#0c0d0e",
@@ -129,7 +131,7 @@
     "notification.buttonBackground": "#ffffff50",
     "badge.background": "#0a0a0a30",
     "badge.foreground": "#3a3a3a",
-    "button.background": "#61616150",
+    "button.background": "#77777750",
     "extensionButton.prominentBackground": "#08fbcf90",
     "extensionButton.prominentHoverBackground": "#08fbcf",
     "peekView.border": "#0a0a0a30",
@@ -158,7 +160,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#666666"
+        "foreground": "#888888"
       }
     },
     {
@@ -421,7 +423,7 @@
       "name": "Double-Slashed Comment",
       "scope": "comment.line.double-slash",
       "settings": {
-        "foreground": "#666666"
+        "foreground": "#777777"
       }
     },
     {
@@ -751,7 +753,7 @@
       "name": "Quote",
       "scope": "quote",
       "settings": {
-        "foreground": "#666666",
+        "foreground": "#777777",
         "fontStyle": "italic"
       }
     },
@@ -1134,7 +1136,7 @@
       "name": "Markdown Quote + others",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#666666",
+        "foreground": "#777777",
         "fontStyle": "italic"
       }
     },
