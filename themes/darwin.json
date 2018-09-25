@@ -93,6 +93,8 @@
     "list.focusBackground": "#ffffff44",
     "list.focusForeground": "#ffffff",
     "list.highlightForeground": "#f90086",
+    "list.warningForeground": "#08fbcf",
+    "list.errorForeground": "#f90086",
     "terminal.ansiWhite": "#ffffff",
     "terminal.ansiBlack": "#3a3a3a",
     "terminal.ansiBlue": "#54d4ff",
