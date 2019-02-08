@@ -17,7 +17,7 @@
     "scrollbar.shadow": "#0a0a0a00",
     "editorLink.activeForeground": "#FFFFFF",
     "selection.background": "#FFFFFF",
-    "progressBar.background": "#f90086",
+    "progressBar.background": "#08fbcf",
     "textLink.foreground": "#f90086",
     "textLink.activeForeground": "#FFFFFF",
     "editorLineNumber.foreground": "#777777",
@@ -93,7 +93,7 @@
     "list.focusBackground": "#ffffff44",
     "list.focusForeground": "#ffffff",
     "list.highlightForeground": "#f90086",
-    "list.warningForeground": "#08fbcf",
+    "list.warningForeground": "#fff900",
     "list.errorForeground": "#f90086",
     "terminal.ansiWhite": "#ffffff",
     "terminal.ansiBlack": "#3a3a3a",
@@ -120,7 +120,7 @@
     "editorSuggestWidget.selectedBackground": "#3a3a3a",
     "editorSuggestWidget.border": "#222222",
     "editorError.foreground": "#f90086",
-    "editorWarning.foreground": "#08fbcf70",
+    "editorWarning.foreground": "#fff90070",
     "editorWidget.background": "#0c0d0e",
     "editorMarkerNavigation.background": "#ffffff05",
     "widget.shadow": "#0a0a0a00",
@@ -133,7 +133,7 @@
     "notification.foreground": "#ffffff",
     "notification.infoBackground": "#54d4ff",
     "notification.infoForeground": "#ffffff",
-    "notification.warningBackground": "#f9008690",
+    "notification.warningBackground": "#fff90090",
     "notification.warningForeground": "#ffffff",
     "notification.buttonBackground": "#ffffff50",
     "badge.background": "#0a0a0a30",
@@ -153,7 +153,19 @@
     "gitDecoration.conflictingResourceForeground": "#fff900",
     "gitDecoration.modifiedResourceForeground": "#54d4ff",
     "gitDecoration.untrackedResourceForeground": "#08fbcf",
-    "gitDecoration.ignoredResourceForeground": "#3a3a3a"
+    "gitDecoration.ignoredResourceForeground": "#3a3a3a",
+    "editorInfo.foreground": "#54d4ff",
+    "editor.hoverHighlightBackground": "#181818",
+    "peekViewEditor.matchHighlightBackground": "#181818",
+    "editor.wordHighlightBackground": "#181818",
+    "editor.wordHighlightStrongBackground": "#181818",
+    "gitlens.trailingLineForegroundColor": "#54d4ff",
+    "editorGutter.commentRangeForeground": "#54d4ff60",
+    "editorIndentGuide.activeBackground": "#f90086",
+    "editorGroupHeader.tabsBorder": "#0c0d0e",
+    "badge.background": "#0c0d0e",
+    "terminalCursor.foreground": "#f90086",
+    "breadcrumb.foreground": "#f8f8f8c2"
   },
   "tokenColors": [
     {
@@ -165,7 +177,27 @@
     },
     {
       "name": "Comment",
-      "scope": "comment",
+      "scope": [
+        "comment",
+        "comment storage.type",
+        "comment variable",
+        "comment support.variable",
+        "comment support.class",
+        "comment support.type",
+        "comment entity.name.type",
+        "comment entity.name.class",
+        "comment keyword.operator",
+        "comment: comment",
+        "comment.line.double-slash",
+        "comment entity.name.class",
+        "comment entity.name.type",
+        "comment keyword.operator",
+        "comment support.class",
+        "comment support.type",
+        "comment support.variable",
+        "comment variable",
+        "Double-Slashed Comment"
+      ],
       "settings": {
         "foreground": "#888888"
       }
@@ -715,6 +747,12 @@
       }
     },
     {
+      "scope": "punctuation.terminator",
+      "settings": {
+        "foreground": "#f90086"
+      }
+    },
+    {
       "name": "More Punctuation Tweaks",
       "scope": [
         "punctuation.definition.list.begin",
@@ -841,7 +879,7 @@
     },
     {
       "name": "CSS Keyword Other Unit",
-      "scope": "keyword.other.unit.css",
+      "scope": "keyword.other",
       "settings": {
         "foreground": "#fff900"
       }
