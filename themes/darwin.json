@@ -151,7 +151,7 @@
     "pickerGroup.foreground": "#f90086",
     "gitDecoration.deletedResourceForeground": "#f90086",
     "gitDecoration.conflictingResourceForeground": "#fff900",
-    "gitDecoration.modifiedResourceForeground": "#54d4ff",
+    "gitDecoration.modifiedResourceForeground": "#616161",
     "gitDecoration.untrackedResourceForeground": "#08fbcf",
     "gitDecoration.ignoredResourceForeground": "#3a3a3a",
     "editorInfo.foreground": "#54d4ff",

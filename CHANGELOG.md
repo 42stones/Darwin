@@ -1,5 +1,8 @@
 If you have any problems or wishes to improve the theme, please message me to christian.k.seidel@gmail.com or on [twitter](https://twitter.com/ChrisKSeidel) to make this your optimised theme as well!
 
+## Version 1.5
+* updated some color Issues
+
 ## Version 1.4
 * search highlightning optimised 
 

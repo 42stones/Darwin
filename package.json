@@ -2,7 +2,7 @@
 	"name": "darwin",
 	"displayName": "Darwin",
 	"description": "A dark theme designed to fit to a black screen.",
-	"version": "1.4.0",
+	"version": "1.5",
 	"author": "Chris K Seidel",
 	"category": "Theme",
 	"publisher": "chriskseidel",
@@ -27,5 +27,8 @@
 		"id": "204e8a58-7449-4eec-924d-1396cce9f110",
 		"publisherDisplayName": "Chris K. Seidel",
 		"publisherId": "09171650-54b0-40ac-b31f-e4c5a4aae598"
+	},
+	"dependencies": {
+		"vsce": "^1.0.0"
 	}
 }
