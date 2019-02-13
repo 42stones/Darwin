@@ -161,7 +161,7 @@
     "editor.wordHighlightStrongBackground": "#181818",
     "gitlens.trailingLineForegroundColor": "#54d4ff",
     "editorGutter.commentRangeForeground": "#54d4ff60",
-    "editorIndentGuide.activeBackground": "#f90086",
+    "editorIndentGuide.activeBackground": "#616161",
     "editorGroupHeader.tabsBorder": "#0c0d0e",
     "badge.background": "#0c0d0e",
     "terminalCursor.foreground": "#f90086",
